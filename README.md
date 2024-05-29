@@ -15,6 +15,27 @@ https://github.com/AbdulRehmanNazar/PushNotificationDemo/assets/6792823/6db76af1
 ## How to use
 Get the Token from the mobile application and use it in the payload of PostMan request and get the push notification. Smile :)
 
+## PostMan Request and Payload
+### Request
+https://fcm.googleapis.com/fcm/send
+### Body Raw JSON
+```
+{
+    "to": "INSERT_TOKEN_HERE",
+    "data": {
+        "body": "check_is_online",
+        "title": "check_is_online",
+        "key_1": "Value for key_1",
+        "key_2": "Value for key_2"
+    },
+    "android": {
+        "priority": "high"
+    },
+    "priority": 10
+}
+```
+
+
 
 ## Author:
 
