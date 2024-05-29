@@ -5,15 +5,15 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Android Studio](https://img.shields.io/badge/Android-Studio-Jellyfish)](https://developer.android.com/studio/preview)
 
-# PushNotificationDemo
+# PushNotificationDemo video
 https://github.com/AbdulRehmanNazar/PushNotificationDemo/assets/6792823/6db76af1-82b1-419f-a9b3-e677a8b54203
 
 <br />
 <br />
 <br />
-<br />
-# How to use
-Get the Token from the mobile application and use it in th payload of PostMan request and get the push notification. Smile :)
+
+## How to use
+Get the Token from the mobile application and use it in the payload of PostMan request and get the push notification. Smile :)
 
 
 ## Author:
