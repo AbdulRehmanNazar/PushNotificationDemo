@@ -8,6 +8,13 @@
 # PushNotificationDemo
 https://github.com/AbdulRehmanNazar/PushNotificationDemo/assets/6792823/6db76af1-82b1-419f-a9b3-e677a8b54203
 
+<br />
+<br />
+<br />
+<br />
+# How to use
+Get the Token from the mobile application and use it in th payload of PostMan request and get the push notification. Smile :)
+
 
 ## Author:
 
